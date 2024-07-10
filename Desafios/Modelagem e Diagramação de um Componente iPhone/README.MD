@@ -1,7 +1,10 @@
 # 📳 Modelagem e Diagramação de um Componente iPhone
 
-## 📔 Descrição
-Neste repositório, você encontrará um diagrama de representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+<p align="center">
+	<b><i>
+ 📔 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone. 
+  </i></b>
+</p>
 
 ## 📊 Diagrama UML
 <p align="center">
