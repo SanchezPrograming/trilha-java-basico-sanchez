@@ -5,5 +5,5 @@ Neste repositório, você encontrará um diagrama de representação UML do comp
 
 ## 📊 Diagrama UML
 <p align="center">
-  <img src="docs/iPhone-modelagem.png" alt="Diagrama de Classes">
+  <img src="uml-iphone.png" alt="Diagrama de Classes">
 </p>
